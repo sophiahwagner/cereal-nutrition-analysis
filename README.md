@@ -14,7 +14,7 @@ This project analyzes nutrition data from the top 80 market cereals to determine
 Findings indicate that total calories and sugars in a cereal both have a significant negative correlation to consumer ratings (**-0.69** and **-0.76** respectively).
 ![Sugar vs. Ratings](impact_of_sugar_on_ratings.png)
 ![Correlation Heatmap](variable_correlation.png)
-** 2. Nutrient Pairs:** 
+**2. Nutrient Pairs:** 
 
 Data suggests that there is a strong positive correlation between potassium and fiber in cereal (**0.90** as seen in the heatmap above) and no significant relationship between total grams of sugar and grams of carbohydrates.
 ![Sugar vs. Carbohydrates](sugar_and_carbs.png)
