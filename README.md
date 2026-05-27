@@ -9,7 +9,7 @@ This project analyzes nutrition data from the top 80 market cereals to determine
 * Key Techniques: Distribution modeling, multi-variable correlation profiling, categorical data grouping.
 
 ## Key Insights and Visualizations
-1. Variables Driving Consumer Ratings
+1. Variables Driving Consumer Ratings: 
 Findings indicate that total calories and sugars in a cereal both have a significant negative correlation to consumer ratings (-0.69 and -0.76 respectively).
 ![Sugar vs. Ratings](impact_of_sugar_on_ratings.png)
 ![Correlation Heatmap](variable_correlation.png)
