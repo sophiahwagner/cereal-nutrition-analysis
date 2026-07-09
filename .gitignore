@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+#Jupyter
+.ipynb_check[points/
+
+#Python
+__pycache__/
+*.pyc
+
+#Environments
+.venv/
+venv
